@@ -40,7 +40,7 @@ public class Ejemplo3 {
                 } else {
                     if (promedio < 3) {
                         System.out.printf("Estudiante reprobado con un "
-                              + "promedio: %.2f\n", promedio);
+                                + "promedio: %.2f\n", promedio);
                     }
                 }
             }
